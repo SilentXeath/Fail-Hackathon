@@ -1,0 +1,9 @@
+function myfunction()
+{ 
+    var checkBox = document.getElementById("b1");
+    var info= document.getElementsByClassName("info1");
+info.visible = true;
+
+
+
+}
