@@ -1,0 +1,100 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <link rel="stylesheet" href="/Users/sharreljannarsico/Desktop/Code/style.css"/>
+        <script type="text/javascript" src="new.js"> </script>
+
+    </head>
+
+    <body>
+        <h1 class="header">College Cost</h1>
+     <div class="container">
+        <ul class="Switch">
+            <h2 class="header2">Select Colleges</h2>
+
+            <label class="switch">
+            <li> 
+                <p1 class="college1">University of California Los Angeles</p1>
+                <input onclick="myfunction()" id="b1" type="checkbox" > 
+                <span class="slider round"></span> 
+            </li>
+            </label> 
+
+            <label class="switch">
+            <li> 
+                <p1>University of California Berkeley</p1>
+                <input id="b2" type="checkbox">
+                <span class="slider round"></span>  
+            </li>
+            </label>
+
+            <label class="switch">
+            <li>  
+                <p1>Stanford University</p1>
+                <input id="b3" type="checkbox">
+                <span class="slider round"></span>
+            </li>                
+            </label>   
+                        
+            <label class="switch">
+            <li> 
+                <p1>Massachusetts Institute of Technology</p1>
+                <input id="b4" type="checkbox">
+                <span class="slider round"></span> 
+            </li>
+            </label> 
+
+            <label class="switch">
+            <li>
+                <p1>California Institute of Technology</p1>
+                <input id="b5" type="checkbox">
+                <span class="slider round"></span>
+            </li>
+            </label>
+
+            <label class="switch">
+            <li>   
+                <p1>Yale University</p1>
+                <input id="b6" type="checkbox">
+                <span class="slider round"></span> 
+            </li>
+            </label>
+
+            <label class="switch">
+            <li>    
+                <p1>University of Southern California</p1>
+                <input id="b7" type="checkbox">
+                <span class="slider round"></span> 
+            </li>
+            </label> 
+
+            <label class="switch">
+            <li>
+                <p1>Princeton University</p1>
+                <input id="b8" type="checkbox">
+                <span class="slider round"></span>
+            </li>
+            </label>     
+
+            <label class="switch">
+            <li>
+                <p1>Harvard University</p1>
+                <input id="b9" type="checkbox">
+                <span class="slider round"></span>
+            </li>
+            </label>   
+                    
+            <label class="switch"> 
+            <li>
+                <p1>University of Chicago</p1>
+                <input id="b10" type="checkbox">
+                <span class="slider round"></span>
+            </li>
+            </label> 
+            
+                </ul>
+             <a href="index2.html" target="_blank" class="Results">Results</a>
+        </div>  
+    </body>
+
+</html> 
