@@ -1,0 +1,123 @@
+html,body {padding:0; margin:0;}
+
+.header{
+    Color: white;
+    font-size: 50px;
+    margin: 0px;
+    border: 0px;
+    padding: 10px;
+    background-color: coral;
+}
+.Switch{
+    color:black;
+    font-size: 25px;
+    font-weight: bold;
+    line-height: 40px;
+    padding:0;
+    margin: 0;
+   background-color: rgba(255,255,255,.80);
+
+   
+}
+body{
+
+    background-image: url(college.jpg);
+    background-position: top;
+
+}
+#b1{
+    position: absolute;
+    right: 65%;
+    display: inline-block;
+    width: 200px;
+    height: 20px;
+    
+
+}
+.header2{
+    padding:0;
+    margin:0;
+}
+.Results{
+    line-break: loose;
+    background-color:rgba(255,255,255,.80);
+    font-size: 50px;
+}
+.Results:hover{
+    background-color:whitesmoke;
+    transition: all 0.3s ease;
+}
+
+.Box1:checked + a {
+    color: blue;
+}
+
+.info1{
+    float: left;
+    background-color: cornsilk;
+    font-size: 25px; 
+    visibility: hidden;
+}
+#b2{
+    position: absolute;
+    right: 65%;
+    display: inline-block;
+    width: 200px;
+    height: 20px;
+}
+#b3{
+    position: absolute;
+    right: 65%;
+    display: inline-block;
+    width: 200px;
+    height: 20px;
+}
+#b4{
+    position: absolute;
+    right: 65%;
+    display: inline-block;
+    width: 200px;
+    height: 20px;
+}
+#b5{
+    position: absolute;
+    right: 65%;
+    display: inline-block;
+    width: 200px;
+    height: 20px;
+}
+#b6{
+    position: absolute;
+    right: 65%;
+    display: inline-block;
+    width: 200px;
+    height: 20px;
+}
+#b7{
+    position: absolute;
+    right: 65%;
+    display: inline-block;
+    width: 200px;
+    height: 20px;
+}
+#b8{
+    position: absolute;
+    right: 65%;
+    display: inline-block;
+    width: 200px;
+    height: 20px;
+}
+#b9{
+    position: absolute;
+    right: 65%;
+    display: inline-block;
+    width: 200px;
+    height: 20px;
+}
+#b10{
+    position: absolute;
+    right: 65%;
+    display: inline-block;
+    width: 200px;
+    height: 20px;
+}
