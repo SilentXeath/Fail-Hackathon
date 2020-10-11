@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <link rel="stylesheet" href="/Users/sharreljannarsico/Desktop/Code/style.css"/>
+        <script src="new.js"> </script>
+    </head>  
+    <body>
+        <h1 class="header">College Cost</h1>
+        <br>
+        <p class="info1">
+            
+            UCLA Information
+            <br>
+            Tuition at UCLA (In-State): $13,239
+            <br>
+            Tuition at UCLA (Out-of-State) $17,599
+            <br>
+            Book and Supp (Out-of-State): $42,994 for Out-of-State
+            <br>
+            Room and Meals lies at UCLA: $1,314
+            <br>
+            Transportation Costs at UCLA: $588
+            <br>
+            Health Insurance Costs at UCLA: $2,605
+            <br>
+            Nonresidential Supplemental Tuition Cost at UCLA: $29,754
+            <br>
+            Total Cost for California Residents: $36,767
+            <br>
+            Total Cost for Nonresidents: $66,521
+        </p>
+    </body>
+    </html>
